@@ -41,7 +41,7 @@ ul, li { list-style: none }
 
 section, aside, menu, footer { display: block } /* -- make sure HTML5 elements are blocks */
 
-body { font-family: Verdana, Arial, Helvetica, sans-serif; }
+body { font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; }
 
 a { outline: 0; color: #05C; }
 
